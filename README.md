@@ -19,13 +19,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-92%25-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-85%25-000000?style=flat&logo=express&logoColor=white)  
 
----
-
-### 📊 **GitHub Analytics**  
-[![Circular Progress](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/USERNAME)  
-[![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/USERNAME)  
-
----
 
 ### 📫 **Connect With Me**  
 🔗 **Telegram:** [@xibra_v](https://t.me/xibra_v)  
